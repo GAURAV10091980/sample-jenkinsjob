@@ -19,14 +19,14 @@
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>xcard-releases</id>
-      <name>xcard-releases</name>
-      <url>http://ip-172-31-87-62.ec2.internal:8081/nexus/content/repositories/xcard-releases/</url>
+      <name>gaurav-releases</name>
+      <url>http://ip-172-31-16-96.ap-south-1.compute.internal:8081/nexus/content/repositories/xcard-releases/</url>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>xcard-snapshots</id>
-      <name>xcard-snapshots</name>
-      <url>http://ip-172-31-87-62.ec2.internal:8081/nexus/content/repositories/xcard-snapshots/</url>
+      <id>xcard-snapshot</id>
+      <name>gaurav-snapshots</name>
+      <url>http://ip-172-31-16-96.ap-south-1.compute.internal:8081/nexus/content/repositories/xcard-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
